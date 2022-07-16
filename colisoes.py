@@ -9,5 +9,3 @@ elif y1a < y0b or y0a > y1b:
     print('0')
 else:
     print('1')
-
-
